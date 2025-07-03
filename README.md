@@ -13,6 +13,5 @@ I’ll be focusing on studying and creating personal projects with these technol
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![CRM](https://img.shields.io/badge/-CRM-0A66C2?logo=databricks&logoColor=white)
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/lisandra-diaz-97296b148/).
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Lisandrad.Lisandrad)
